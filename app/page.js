@@ -14,7 +14,7 @@ export default function Home() {
     </div>
     <div>
       <p className="indent-10 mb-4">
-        If you are interested in learning how to code, then you are at the right place. If you join our program, you will have an opportunity to learn coding for as long as you want and only pay for the bootcamp which will be a duration of 6 Months. The total lessons will be 120, and each lesson will be <span className="text-green-500">300 Ksh for Kenyan Citizens</span> and <span className="text-green-500">$5 for foreigners</span>. After the 6 months, we will be meeting twice a week to learn more about coding and evaluate projects that we will be working on.
+        If you are interested in learning how to code, then you are at the right place. If you join our program, you will have an opportunity to learn coding for as long as you want and only pay for the bootcamp which will be a duration of 6 Months. The total lessons will be 120, and each lesson will be <span className="text-green-500">500 Ksh for Kenyan Citizens</span> and <span className="text-green-500">$10 for foreigners</span>. After the 6 months, we will be meeting twice a week to learn more about coding and evaluate projects that we will be working on.
       </p>
       <p className="indent-10 mb-4">
         We will be operating online using Zoom and enrolments will be at the beginning of every month. For those who prefer physical classes, we can be meeting in Juja. Always remember that to be good at any skill, the learning process should never end. By joining our program, we will teach you how to use: 
