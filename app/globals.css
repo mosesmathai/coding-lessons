@@ -2,4 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-
+table, th, td {
+  border: 1px solid;
+  padding: 2px 4px;
+}
+thead {
+  background-color: aqua;
+  color: brown;
+}

@@ -10,7 +10,7 @@ export default function Home() {
         P.O. Box 16995 – 00100 Nrb
       </div>
     <div className="mb-4 flex justify-center underline decoration-green-500">
-      <h1 className="text-green-500 font-bold">Coding Program</h1>
+      <h1 className="text-green-500 text-xl md:text-2xl font-bold">Coding Program</h1>
     </div>
     <div>
       <p className="indent-10 mb-4">
@@ -34,10 +34,42 @@ export default function Home() {
         </div>
       </div>
       <div className="mb-4 flex justify-center underline decoration-green-500">
-        <h1 className="text-green-500 font-bold">E-Commerce Websites Available</h1>
+        <h1 className="text-green-500 text-center text-xl md:text-2xl font-bold">E-Commerce Websites Available</h1>
       </div>
       <p className="indent-10 mb-4">
-        Our E-Commerce website has a lifetime warranty. The setup process takes a maximum of <span className="text-green-500"> 4 days</span>. The price for Kenyan Citizens is <span className="text-green-500"> 20,000 Ksh</span> while for foreigners it is <span className="text-green-500"> $200</span>. This amount will cover 2 custom domains valid for 1 year. After it expires, the client will have an option to either renew the custom domains or to use the free domains provided by our host vercel. Bellow are some of the features that this website has.
+        You can get our E-Commerce Website for <span className="text-green-500">Free!!!</span>. However, one must be able to maintain their domains and database. The database cost is paid <span className="text-green-500">monthly</span> while domains are paid for <span className="text-green-500">yearly</span>. The maintainance cost includes:
+      </p>
+      <div className="flex justify-center mb-4">
+        <table>
+          <thead>
+            <tr>
+              <th>Service</th>
+              <th>Kenya</th>
+              <th>Rest of Africa</th>
+              <th>Outside Africa</th>
+              <th>Duration</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Domain</td>
+              <td>3000 Ksh</td>
+              <td>$30</td>
+              <td>$50</td>
+              <td>1 Year</td>
+            </tr>
+            <tr>
+              <td>Database</td>
+              <td>2000 Ksh</td>
+              <td>$20</td>
+              <td>$30</td>
+              <td>1 Month</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p className=" mb-4">
+        Some of the features of our E-Commerce Website includes:
       </p>
       <div className="flex justify-center text-green-500 mb-6">
         <div>
