@@ -6,8 +6,7 @@ export default function Home() {
       <div className="mb-5">
         Blue Tech <br/> 
         Juja, Opposite Carnation House <br/> 
-        0748-33-93-75 <br/> 
-        P.O. Box 16995 – 00100 Nrb
+        <b>Email&#58;</b> softwareprotips@gmail.com<br/> 
       </div>
     <div className="mb-4 flex justify-center underline decoration-green-500">
       <h1 className="text-green-500 text-xl md:text-2xl font-bold">Coding Program</h1>
