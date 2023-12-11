@@ -1,6 +1,9 @@
+"use client"
 
+import { useState } from "react"
 
 export default function Home() {
+  const [text, setText] = useState("Sample")
   return (
     <main className="bg-black pt-4 pr-4 pb-4 pl-10 text-white">
       <div className="mb-5">
@@ -87,7 +90,7 @@ export default function Home() {
         Click the button bellow to test the E-Commerce website.
       </p>
       <div className="flex justify-center">
-        <a className="no-underline bg-purple-900 py-2 px-4 rounded-md cursor-pointer" target="_blank" href="https://business-website-pied.vercel.app/">Sample</a>
+        <a onClick={() => setText("processing...")} className="no-underline bg-purple-900 hover:bg-purple-600 py-2 px-4 rounded-md cursor-pointer" target="_blank" href="https://business-website-pied.vercel.app/">{text}</a>
       </div>
       <div className="mt-10">
         <span>Yours Sincerely,</span> <br/>
