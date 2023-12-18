@@ -11,8 +11,8 @@ export default function Home() {
         Juja, Opposite Carnation House <br/> 
         <b>Email&#58;</b> softwareprotips@gmail.com<br/> 
       </div>
-    <div className="mb-4 flex justify-center underline decoration-green-500">
-      <h1 className="text-green-500 text-xl md:text-2xl font-bold">Coding Program</h1>
+    <div className="mb-4 flex justify-center underline decoration-gray-500">
+      <h1 className="text-orange-500 text-xl md:text-2xl font-bold">Coding Program</h1>
     </div>
     <div>
       <p className="indent-10 mb-4">
@@ -35,11 +35,11 @@ export default function Home() {
           <span>&#8226; How to secure websites and applications</span> <br/>
         </div>
       </div>
-      <div className="mb-4 flex justify-center underline decoration-green-500">
-        <h1 className="text-green-500 text-center text-xl md:text-2xl font-bold">E-Commerce Websites Available</h1>
+      <div className="mb-4 flex justify-center underline decoration-gray-500">
+        <h1 className="text-orange-500 text-center text-xl md:text-2xl font-bold">E-Commerce Websites Available</h1>
       </div>
       <p className="indent-10 mb-4">
-        You can get our E-Commerce Website for <span className="text-green-500">Free!!!</span>. However, one must be able to maintain their domains and database. The database cost is paid <span className="text-green-500">monthly</span> while domains are paid for <span className="text-green-500">yearly</span>. The maintainance cost includes:
+        You can get a warranty to use any of our business systems for a maximum of <span className="text-green-500">50 years!</span>. The price tag for the warranty depends with your location&#58;
       </p>
       <div className="flex justify-center mb-4">
         <table>
@@ -54,18 +54,11 @@ export default function Home() {
           </thead>
           <tbody>
             <tr>
-              <td>Domain</td>
-              <td>3000 Ksh</td>
-              <td>$30</td>
-              <td>$50</td>
-              <td>1 Year</td>
-            </tr>
-            <tr>
-              <td>Database</td>
-              <td>2000 Ksh</td>
-              <td>$20</td>
-              <td>$30</td>
-              <td>1 Month</td>
+              <td>Warranty</td>
+              <td>250,000 Ksh</td>
+              <td>$3000</td>
+              <td>$3500</td>
+              <td>50 Years</td>
             </tr>
           </tbody>
         </table>
@@ -75,9 +68,9 @@ export default function Home() {
       </p>
       <div className="flex justify-center text-green-500 mb-6">
         <div>
-          <span>&#8226; Supports M-Pesa transactions</span> <br/>
           <span>&#8226; Supports Visa Cards transactions</span> <br/>
           <span>&#8226; Supports Master Cards transactions</span> <br/>
+          <span>&#8226; Supports M-Pesa transactions</span> <br/>
           <span>&#8226; You can add unlimited number of products</span> <br/>
           <span>&#8226; The website has multiple Themes</span> <br/>
           <span>&#8226; The website comes with its own Administation Panel</span> <br/>
