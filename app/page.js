@@ -16,7 +16,7 @@ export default function Home() {
     </div>
     <div>
       <p className="indent-10 mb-4">
-        If you are interested in learning how to code, then you are at the right place. If you join our program, you will have an opportunity to learn coding for as long as you want and only pay for the bootcamp which will be a duration of 6 Months. The total lessons will be 120, and each lesson will be <span className="text-green-500">500 Ksh for Kenyan Citizens</span> and <span className="text-green-500">$10 for foreigners</span>. After the 6 months, we will be meeting twice a week to learn more about coding and evaluate projects that we will be working on.
+        If you are interested in learning how to code, then you are at the right place. If you join our program, you will have an opportunity to learn coding for as long as you want and only pay for the bootcamp which will be a duration of 6 Months. The total lessons will be 120, and each lesson will be <span className="text-green-500">300 Ksh for Kenyan Citizens</span> and <span className="text-green-500">$5 for foreigners</span>. After the 6 months, we will be meeting twice a week to learn more about coding and evaluate projects that we will be working on.
       </p>
       <p className="indent-10 mb-4">
         We will be operating online using Zoom and enrolments will be at the beginning of every month. For those who prefer physical classes, we can be meeting in Juja. Always remember that to be good at any skill, the learning process should never end. By joining our program, we will teach you how to use: 
@@ -38,8 +38,8 @@ export default function Home() {
       <div className="mb-4 flex justify-center underline decoration-gray-500">
         <h1 className="text-orange-500 text-center text-xl md:text-2xl font-bold">E-Commerce Systems Available</h1>
       </div>
-      <p className="indent-10 mb-4">
-        You can get a warranty to use any of our business systems for a maximum of <span className="text-green-500">50 years!</span>. The price tag for the warranty depends with your location. We also have <span className="text-green-500 uppercase">Option 2</span> where you can opt to rent the business system on monthly basis where prices will vary based on your location. Check bellow for the prices&#58;
+      <p className=" mb-4">
+        You can get a our business system at an affordable price. Check bellow for more info&#58;
       </p>
       <div className="flex justify-center mb-4">
         <table>
@@ -54,18 +54,18 @@ export default function Home() {
           </thead>
           <tbody>
             <tr>
-              <td>Warranty</td>
-              <td>250,000 Ksh</td>
-              <td>$3000</td>
-              <td>$3500</td>
-              <td>50 Years</td>
+              <td>Purchase Cost</td>
+              <td>15,000 Ksh</td>
+              <td>$150</td>
+              <td>$200</td>
+              <td>N/A</td>
             </tr>
             <tr>
-              <td>Option 2</td>
-              <td>3,000 Ksh</td>
-              <td>$30</td>
-              <td>$35</td>
-              <td>1 Month</td>
+              <td>Maintainance</td>
+              <td>5,000 Ksh</td>
+              <td>$50</td>
+              <td>$65</td>
+              <td>1 Year</td>
             </tr>
           </tbody>
         </table>
