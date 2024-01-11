@@ -14,7 +14,7 @@ export default function Home() {
         <h1 className="text-orange-500 text-center text-xl md:text-2xl font-bold">E-Commerce Systems</h1>
       </div>
       <p className=" mb-4">
-        You can get our business system for <span className="text-green-500">15,000 Ksh</span>. It has a lifetime warranty. Downpayment is 5,000 Ksh. The system has a Yearly maintenance cost of 5000 Ksh.
+        You can get our business system for <span className="text-green-500">$3,000</span>. It has a lifetime warranty. Downpayment is $500. The system has a Yearly maintenance cost of $100.
       </p>
       <p className=" mb-4">
         Some of the features of this System includes:
